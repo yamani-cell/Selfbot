@@ -58,3 +58,4 @@ vapor | Turns the entered value into vaporwave text. | No notes needed
 
 ## Ending notes
 I hope you have fun with this selfbot, if you have any suggestions please contact me on Discord, as stated in the introduction. See you soon!
+[![Run on Repl.it](https://repl.it/badge/github/Supersebi3/Selfbot)](https://repl.it/github/Supersebi3/Selfbot)
